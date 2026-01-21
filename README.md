@@ -7,7 +7,14 @@ The Airport Dashboard is a data-driven visualization that provides insights into
 
 ________________________________________
 
-
+---------------------------------------
+## 📊 Final Output
+![Final Chart](1.png)
+![Final Chart](2.png)
+![Final Chart](3.png)
+![Final Chart](4.png)
+![Final Chart](5.png)
+---------------------------------------
 Scope of the Analysis
 The Airport Dashboard focuses on the following aspects:
 1.	Flight Volume Analysis: Displays the total number of flights over time and identifies fluctuations or patterns in traffic.
